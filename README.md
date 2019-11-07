@@ -1,5 +1,4 @@
 # Memory-Card-Game
-##### Contributors
 
 ## How to Run
 ```
